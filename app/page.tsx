@@ -170,7 +170,7 @@ export default function Portfolio() {
               link="https://ibm-edunet-smartcareer-ai-mbxuzbcqopwpbflrp2f9ss.streamlit.app"
               github="https://github.com/saileed05/ibm-edunet-smartcareer-ai"
               year="2025"
-              imageSrc="/smartcareerAI.png"
+              imageSrc="/smartCareerAI.png"
             />
 
             <ProjectCaseStudy 
